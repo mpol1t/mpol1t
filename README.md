@@ -10,7 +10,7 @@ Whether it's optimizing a dataflow or architecting clean services, I focus on so
 
 ### 💼 Contracting & Consulting Services
 
-Available for short-term software engineering contracts via **Monadic Ltd**:
+Available for short-term software engineering contracts via **Monadic**:
 
 - 🧠 **Languages**: Python, Elixir, C/Cython, Scala  
 - 🛠️ **Frameworks**: Django, FastAPI, Phoenix  
