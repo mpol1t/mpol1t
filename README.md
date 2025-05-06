@@ -24,7 +24,7 @@ Available for short-term software engineering contracts via **Monadic Ltd**:
 
 ### 🔍 Selected Projects
 
-- [`off_broadway_websocket`](https://github.com/mpol1t/off_broadway_websocket) – Elixir library for ingesting high-frequency WebSocket streams  
+- [`off_broadway_websocket`](https://github.com/mpol1t/off_broadway_websocket) – Off-broadway producer for ingesting high-frequency WebSocket streams  
 - [`async-websocket-pool`](https://github.com/mpol1t/async-websocket-pool) – WebSocket pool manager for async data feeds  
 - [`geminex`](https://github.com/mpol1t/geminex) – Elixir wrapper for Gemini exchange's REST API
 
