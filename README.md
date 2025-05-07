@@ -12,8 +12,8 @@ Whether it's optimizing a dataflow or architecting clean services, I focus on so
 
 Available for short-term software engineering contracts via **Monadic**:
 
-- 🧠 **Languages**: Python, Elixir, C/Cython, Scala  
-- 🛠️ **Frameworks**: Django, FastAPI, Phoenix  
+- 🧠 **Languages**: Python, Elixir, C/Cython, Scala, Haskell  
+- 🛠️ **Frameworks**: Django, FastAPI, Yesod, Phoenix  
 - 📊 **Data & ML**: Dask, Spark, Pandas, PyTorch, SQL/NoSQL  
 - ☁️ **Cloud & Infra**: AWS, Docker, Kafka, RabbitMQ  
 - ⚙️ **HPC & Parallelism**: MPI, OpenMP, CUDA, OpenSHMEM  
