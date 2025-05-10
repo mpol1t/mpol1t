@@ -18,8 +18,6 @@ Available for short-term software engineering contracts via **Monadic**:
 - ☁️ **Cloud & Infra**: AWS, Docker, Kafka, RabbitMQ  
 - ⚙️ **HPC & Parallelism**: MPI, OpenMP, CUDA, OpenSHMEM  
 
-📍 Remote or hybrid (Edinburgh) | 📆 6-12 month projects | ✅ Ready to onboard quickly
-
 ---
 
 ### 🔍 Selected Projects
