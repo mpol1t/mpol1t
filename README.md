@@ -12,7 +12,7 @@ Whether it's optimizing a dataflow or architecting clean services, I focus on so
 
 Available for short-term software engineering contracts via **Monadic**:
 
-- 🧠 **Languages**: Python, Elixir, C/Cython, Scala, Haskell  
+- 🧠 **Languages**: Python, Elixir, C/Cython, Haskell  
 - 🛠️ **Frameworks**: Django, FastAPI, Yesod, Phoenix  
 - 📊 **Data & ML**: Dask, Spark, Pandas, PyTorch, SQL/NoSQL  
 - ☁️ **Cloud & Infra**: AWS, Docker, Kafka, RabbitMQ  
@@ -31,7 +31,7 @@ Available for short-term software engineering contracts via **Monadic**:
 ### 📫 Let’s Talk
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/michal-p-ba1418198/)  
-- ✉️ mpolit@protonmail.com  
+- ✉️ michal.polit@monadic.eu
 
 ---
 
