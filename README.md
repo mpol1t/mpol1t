@@ -35,4 +35,4 @@ Available for short-term software engineering contracts via **Monadic**:
 
 ---
 
-🔎 Always happy to connect over backend design, data engineering, or functional programming. Open to contracting and collaboration!
+🔎 Always happy to connect over backend design, data engineering, or functional programming.
