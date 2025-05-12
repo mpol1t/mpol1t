@@ -8,9 +8,7 @@ Whether it's optimizing a dataflow or architecting clean services, I focus on so
 
 ---
 
-### 💼 Contracting & Consulting Services
-
-Available for short-term software engineering contracts via **Monadic**:
+### 💼 Tech Stack
 
 - 🧠 **Languages**: Python, Elixir, C/Cython, Haskell  
 - 🛠️ **Frameworks**: Django, FastAPI, Yesod, Phoenix  
