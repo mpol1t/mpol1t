@@ -12,7 +12,7 @@ Whether it's optimizing a dataflow or architecting clean services, I focus on so
 
 - 🧠 **Languages**: Python, Elixir, C/Cython, Haskell  
 - 🛠️ **Frameworks**: Django, FastAPI, Yesod, Phoenix  
-- 📊 **Data & ML**: Dask, Spark, Pandas, PyTorch, SQL/NoSQL  
+- 📊 **Data & ML**: Dask, Pandas, PyTorch, SQL/NoSQL  
 - ☁️ **Cloud & Infra**: AWS, Docker, Kafka, RabbitMQ  
 - ⚙️ **HPC & Parallelism**: MPI, OpenMP, CUDA, OpenSHMEM  
 
