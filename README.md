@@ -1,8 +1,8 @@
 # Hi, I'm Michal 👋
 
-I'm a Backend & Machine Learning Engineer with a passion for building scalable, data-driven systems. I specialize in backend architecture, data pipelines, and functional programming — designing fast, reliable software for complex problems across e-commerce, telecom, and algorithmic trading.
+I'm a AI & Software Engineer with a passion for building scalable, data-driven systems. I specialize in backend architecture, data pipelines, and functional programming — designing fast, reliable software for complex problems across e-commerce, telecom, and algorithmic trading.
 
-With a BEng in Artificial Intelligence and an ongoing MSc in High Performance Computing at the University of Edinburgh, I bring a strong academic foundation to practical engineering. My current thesis explores neuroevolution and AI agents in the StarCraft II environment — combining reinforcement learning, large scale parallelism, and agent-oriented design.
+With a BEng in Artificial Intelligence and an ongoing MSc in High Performance Computing at the University of Edinburgh, I bring a strong academic foundation to practical engineering. My current thesis explores neuroevolution and multi-agent deep reinforcement learning in the StarCraft II environment — combining reinforcement learning, large scale parallelism, and agent-oriented design.
 
 Whether it's optimizing a dataflow or architecting clean services, I focus on solutions that are correct by design, scalable, and built to last.
 
@@ -10,11 +10,11 @@ Whether it's optimizing a dataflow or architecting clean services, I focus on so
 
 ### 💼 Tech Stack
 
-- 🧠 **Languages**: Python, Elixir, C/Cython, Haskell  
-- 🛠️ **Frameworks**: Django, FastAPI, Yesod, Phoenix  
-- 📊 **Data & ML**: Dask, Pandas, PyTorch, SQL/NoSQL  
+- 🧠 **Languages**: Python, Elixir, C/Cython, Haskell, Elm
+- 🛠️ **Frameworks**: Yesod, Phoenix/Ash, Elm Land
+- 📊 **Data & ML**: Dask, Pandas, PyTorch, SQL/NoSQL
 - ☁️ **Cloud & Infra**: AWS, Docker, Kafka, RabbitMQ  
-- ⚙️ **HPC & Parallelism**: MPI, OpenMP, CUDA, OpenSHMEM  
+- ⚙️ **HPC & Parallelism**: MPI, OpenMP, CUDA, OpenSHMEM
 
 ---
 
