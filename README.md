@@ -10,8 +10,8 @@ Whether it's optimizing a dataflow or architecting clean services, I focus on so
 
 ### 💼 Tech Stack
 
-- 🧠 **Languages**: Python, Elixir, C/Cython, Haskell, Elm
-- 🛠️ **Frameworks**: Yesod, Phoenix/Ash, Elm Land
+- 🧠 **Languages**: Python/Cython, Elixir, C, Haskell
+- 🛠️ **Frameworks**: Yesod, Phoenix/Ash, FastAPI
 - 📊 **Data & ML**: Dask, Pandas, PyTorch/Lightning, SQL/NoSQL
 - ☁️ **Cloud & Infra**: AWS, Docker, Kafka, RabbitMQ  
 - ⚙️ **HPC & Parallelism**: MPI, OpenMP, CUDA, OpenSHMEM
