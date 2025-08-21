@@ -1,36 +1,68 @@
 # Hi, I'm Michal 👋
 
-I'm a AI & Software Engineer with a passion for building scalable, data-driven systems. I specialize in backend architecture, data pipelines, and functional programming — designing fast, reliable software for complex problems across e-commerce, telecom, and algorithmic trading.
+AI & Software Engineer - **Independent Contractor (UK Ltd)**
 
-With a BEng in Artificial Intelligence and an ongoing MSc in High Performance Computing at the University of Edinburgh, I bring a strong academic foundation to practical engineering. My current thesis explores neuroevolution and multi-agent deep reinforcement learning in the StarCraft II environment — combining reinforcement learning, large scale parallelism, and agent-oriented design.
+I design and deliver **high-throughput backends**, **streaming data pipelines**, and **ML infrastructure** - with a bias for correctness, observability, and performance. My background spans e-commerce, telecom, and algorithmic trading.
 
-Whether it's optimizing a dataflow or architecting clean services, I focus on solutions that are correct by design, scalable, and built to last.
-
----
-
-### 💼 Tech Stack
-
-- 🧠 **Languages**: Python/Cython, Elixir, C, Haskell
-- 🛠️ **Frameworks**: Yesod, Phoenix/Ash, FastAPI
-- 📊 **Data & ML**: Dask, Pandas, PyTorch/Lightning, SQL/NoSQL
-- ☁️ **Cloud & Infra**: AWS, Docker, Kafka, RabbitMQ  
-- ⚙️ **HPC & Parallelism**: MPI, OpenMP, CUDA, OpenSHMEM
+- **Academic foundation:** BEng in Artificial Intelligence & Software Engineering; MSc (in progress) in High-Performance Computing at the University of Edinburgh.
+  
+  Current thesis: **neuroevolution & multi-agent reinforcement learning in StarCraft II** (RL + large-scale parallelism).
 
 ---
 
-### 🔍 Selected Projects
+## What I Do
 
-- [`off_broadway_websocket`](https://github.com/mpol1t/off_broadway_websocket) – Off-broadway producer for ingesting  WebSocket streams in Elixir
-- [`async-websocket-pool`](https://github.com/mpol1t/async-websocket-pool) – WebSocket pool manager for async data feeds  
-- [`geminex`](https://github.com/mpol1t/geminex) – Elixir wrapper for Gemini exchange's REST API
+- **Backend & APIs:** Elixir (Phoenix/Ash/Broadway), Python (FastAPI); domain modeling, testing, clean service boundaries.  
+- **Data platforms:** Kafka/RabbitMQ streaming, Dask/Pandas batch; data contracts, reliability, and backpressure.  
+- **ML & RL engineering:** PyTorch/Lightning; experiment pipelines, model serving, performance tuning.  
+- **HPC & performance:** MPI/OpenMP/CUDA, parallel algorithms, profiling, scale-out strategy.  
+- **Trading & feeds:** resilient WebSocket ingestion at scale; exchange integrations and fault-tolerant consumers.  
+- **Cloud & ops:** AWS, Docker, CI/CD; pragmatic SRE and observability.
+
+**Engagements:** project delivery • part-time retainers • audits & performance tuning • interim engineering  
+**Availability:** remote (UK/EU-friendly) • on-site by arrangement
 
 ---
 
-### 📫 Let’s Talk
+## Selected Projects
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/michal-p-ba1418198/)  
-- ✉️ michal.polit@monadic.eu
+- [`nursery`](https://github.com/mpol1t/nursery) — Lightweight **Elixir** library for supervising child processes per environment; useful for isolating optional or costly subsystems.  
+- [`off_broadway_websocket`](https://github.com/mpol1t/off_broadway_websocket) — Off-Broadway producer for WebSocket stream ingestion in Elixir (backpressure-aware, resilient).  
+- [`async-websocket-pool`](https://github.com/mpol1t/async-websocket-pool) — asyncio WebSocket connection pool for high-fanout market/data feeds.  
+- [`geminex`](https://github.com/mpol1t/geminex) — Elixir wrapper for the Gemini exchange REST API.
 
 ---
 
-🔎 Always happy to connect over backend design, data engineering, or functional programming.
+## Tech Stack
+
+- 🧠 **Languages:** Python/Cython, Elixir, C, Haskell  
+- 🛠️ **Frameworks:** Phoenix/Ash, FastAPI, Yesod  
+- 📊 **Data & ML:** Dask, Pandas, Broadway, PyTorch/Lightning, SQL/NoSQL  
+- ☁️ **Cloud & Infra:** AWS, Docker, Kafka, RabbitMQ  
+- ⚙️ **HPC & Parallelism:** MPI, OpenMP, CUDA, OpenSHMEM
+
+---
+
+## How I Work
+
+- **Correct by design.** Make state explicit; keep pure cores with well-bounded effects; utilize Property-Based Testing.  
+- **Design for failure.** Backpressure, retries, idempotency, clear SLIs/SLOs.  
+- **Measure first.** Profile before optimizing; choose the simplest tool that meets the SLO.  
+- **Small surface area.** Cohesive modules, minimal dependencies, clear contracts.
+
+---
+
+## Education
+
+- **MSc (High-Performance Computing with Data Science)** University of Edinburgh (EPCC) *(in progress)*  
+- **BEng (Artificial Intelligence & Software Engineering)** University of Edinburgh (School of Informatics)
+
+---
+
+## Contact
+
+- 🌐 **Website:** [michalpolit.com](https://www.michalpolit.com/)  
+- 💼 **LinkedIn:** [linkedin.com/in/michal-p-ba1418198](https://www.linkedin.com/in/michal-p-ba1418198/)  
+- ✉️ **Email:** michal.polit@monadic.eu
+
+> **Hiring?** I’m open to short- and long-term contracts. If you have a backend, data platform, or performance challenge, let’s talk.
