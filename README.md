@@ -4,7 +4,7 @@ AI & Software Engineer - **Independent Contractor (UK Ltd)**
 
 I design and deliver **high-throughput backends**, **streaming data pipelines**, and **ML infrastructure** - with a bias for correctness, observability, and performance. My background spans e-commerce, telecom, and algorithmic trading.
 
-- **Academic foundation:** BEng in Artificial Intelligence & Software Engineering; MSc (in progress) in High-Performance Computing at the University of Edinburgh.
+- **Academic foundation:** BEng in Artificial Intelligence & Software Engineering; MSc (in progress) in High Performance Computing and Data Science at the University of Edinburgh.
   
   Current thesis: **neuroevolution & multi-agent reinforcement learning in StarCraft II** (RL + large-scale parallelism).
 
