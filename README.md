@@ -49,14 +49,7 @@ I design and deliver **high-throughput backends**, **streaming data pipelines**,
 - **Design for failure.** Backpressure, retries, idempotency, clear SLIs/SLOs.  
 - **Measure first.** Profile before optimizing; choose the simplest tool that meets the SLO.  
 - **Small surface area.** Cohesive modules, minimal dependencies, clear contracts.
-
----
-
-## Education
-
-- **MSc (High-Performance Computing with Data Science)** University of Edinburgh (EPCC) *(in progress)*  
-- **BEng (Artificial Intelligence & Software Engineering)** University of Edinburgh (School of Informatics)
-
+  
 ---
 
 ## Contact
